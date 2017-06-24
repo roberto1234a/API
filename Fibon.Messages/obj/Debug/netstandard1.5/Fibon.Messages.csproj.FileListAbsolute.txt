@@ -1,0 +1,6 @@
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Messages/bin/Debug/netstandard1.5/Fibon.Messages.deps.json
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Messages/bin/Debug/netstandard1.5/Fibon.Messages.dll
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Messages/bin/Debug/netstandard1.5/Fibon.Messages.pdb
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Messages/obj/Debug/netstandard1.5/Fibon.Messages.AssemblyInfo.cs
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Messages/obj/Debug/netstandard1.5/Fibon.Messages.dll
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Messages/obj/Debug/netstandard1.5/Fibon.Messages.pdb
