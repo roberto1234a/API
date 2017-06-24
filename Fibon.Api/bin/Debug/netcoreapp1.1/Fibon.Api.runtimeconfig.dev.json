@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/rohome2/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/bin/Debug/netcoreapp1.1/Fibon.Service.deps.json
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/bin/Debug/netcoreapp1.1/Fibon.Service.runtimeconfig.json
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/bin/Debug/netcoreapp1.1/Fibon.Service.runtimeconfig.dev.json
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/bin/Debug/netcoreapp1.1/Fibon.Service.dll
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/bin/Debug/netcoreapp1.1/Fibon.Service.pdb
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/bin/Debug/netcoreapp1.1/Fibon.Messages.dll
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/bin/Debug/netcoreapp1.1/Fibon.Messages.pdb
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/obj/Debug/netcoreapp1.1/Fibon.Service.AssemblyInfo.cs
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/obj/Debug/netcoreapp1.1/Fibon.Service.dll
+/home/rohome2/dotnet/warsztaty/Fibon/Fibon.Service/obj/Debug/netcoreapp1.1/Fibon.Service.pdb
